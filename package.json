@@ -1,0 +1,28 @@
+{
+  "name": "typedoc-plugin-exclude-references",
+  "version": "1.0.0",
+  "description": "temporary plugin for typedoc",
+  "main": "lib/index.js",
+  "scripts": {
+    "init": "tsc --init",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samchon/typedoc-plugin-exclude-references.git"
+  },
+  "keywords": [
+    "typedoc",
+    "plugin"
+  ],
+  "author": "Jeongho Nam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samchon/typedoc-plugin-exclude-references/issues"
+  },
+  "homepage": "https://github.com/samchon/typedoc-plugin-exclude-references#readme",
+  "devDependencies": {
+    "typedoc": "^0.17.4",
+    "typescript": "^3.8.3"
+  }
+}
